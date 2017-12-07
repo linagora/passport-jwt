@@ -1,6 +1,6 @@
 {
-  "name": "passport-jwt",
-  "version": "1.2.2-linagora-2",
+  "name": "@linagora/passport-jwt",
+  "version": "1.2.3",
   "description": "Passport authentication strategy using JSON Web Tokens",
   "main": "./lib",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/themikenicholson/passport-jwt.git"
+    "url": "https://github.com/linagora/passport-jwt.git"
   },
   "keywords": [
     "Passport",
@@ -20,10 +20,7 @@
   ],
   "author": "Mike Nicholson",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/themikenicholson/passport-jwt/issues"
-  },
-  "homepage": "https://github.com/themikenicholson/passport-jwt",
+  "homepage": "https://github.com/linagora/passport-jwt",
   "devDependencies": {
     "chai": "^1.9.2",
     "chai-passport-strategy": "^0.2.0",

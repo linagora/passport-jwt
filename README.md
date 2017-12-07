@@ -1,3 +1,5 @@
+**This project is a fork of [passport-jwt](https://github.com/jaredhanson/passport-jwt)**
+
 # passport-jwt
 
 A [Passport](http://passportjs.org/) strategy for authenticating with a
@@ -8,7 +10,7 @@ intended to be used to secure RESTful endpoints without sessions.
 
 ## Install
 
-    npm install passport-jwt
+    npm install @linagora/passport-jwt
 
 ## Usage
 
